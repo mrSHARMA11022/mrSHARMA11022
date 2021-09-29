@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...html & css
 - 💞️ I’m looking to collaborate on ...my project
-- 📫 How to reach me ...by plane...hahha 
+- 
 
 <!---
 mrSHARMA11022/mrSHARMA11022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
